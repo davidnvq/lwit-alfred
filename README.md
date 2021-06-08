@@ -16,6 +16,6 @@ To cite our paper which is to appear in IJCAI 2021, please kindly use the follow
 Link to our paper on Arxiv: https://arxiv.org/abs/2106.00596
 
 
--[ ] Cleaning code.
+- [ ] The source code is under cleaning, which will appear in the next few days. 
 
 
