@@ -12,7 +12,8 @@ To cite our paper which is to appear in IJCAI 2021, please kindly use the follow
 }
 ```
 
-[Arxiv link](https://arxiv.org/abs/2106.00596)
+
+Link to our paper on Arxiv: https://arxiv.org/abs/2106.00596
 
 
 -[ ] Cleaning code.
